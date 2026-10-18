@@ -1,0 +1,6 @@
+choose = input("what name format do you want")
+
+if choose == "username":
+  print("ldotso")
+else:
+  print("l.so")
